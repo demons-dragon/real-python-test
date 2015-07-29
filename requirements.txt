@@ -1,0 +1,5 @@
+beautifulsoup4==4.4.0
+bottle==0.12.8
+mechanize==0.2.5
+pyPdf==1.13
+virtualenv==13.1.0
